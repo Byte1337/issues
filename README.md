@@ -63,3 +63,4 @@ public class Bhop extends Macro {
 * Added Hypixel LongJump
 * Made Hypixel Fly Faster
 * Fixed a clickgui bug
+* Added Depression Capes to Developers
