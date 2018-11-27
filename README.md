@@ -62,3 +62,4 @@ public class Bhop extends Macro {
 * Added ThridPerson Player Model Rotation
 * Added Hypixel LongJump
 * Made Hypixel Fly Faster
+* Fixed a clickgui bug
