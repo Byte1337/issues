@@ -67,3 +67,4 @@ public class Bhop extends Macro {
 * Added Latest Version Checker
 * Added Hypixel Crits
 * Added Sneak With 2 Modes (Spoof & Normal)
+* Added A Tick Aura (Bypasses Hypixel)
