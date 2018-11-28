@@ -65,3 +65,5 @@ public class Bhop extends Macro {
 * Fixed a clickgui bug
 * Added Depression Capes to Developers
 * Added Latest Version Checker
+* Added Hypixel Crits
+* Added Sneak With 2 Modes (Spoof & Normal)
