@@ -1,5 +1,5 @@
 # ChangeLog
-This is the offical github for Depression Hacked Client changelogs
+This is the offical github for Depression Hacked Client changelogs & issues
 
 # Macro Tutorial
 
