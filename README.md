@@ -68,3 +68,4 @@ public class Bhop extends Macro {
 * Added Hypixel Crits
 * Added Sneak With 2 Modes (Spoof & Normal)
 * Added A Tick Aura (Bypasses Hypixel)
+* Fixed a bug with scaffold not switching to original slot when disabled
