@@ -2,6 +2,7 @@
 This is the offical github for Depression Hacked Client changelogs & issues
 
 # Macro Tutorial
+* Add the Depression.jar as a dependency.
 
 ```java
 public class Bhop extends Macro {
