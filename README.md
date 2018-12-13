@@ -37,6 +37,13 @@ public class Bhop extends Macro {
 * Download: [Test Bhop Macro](https://depressionclient.ml/assets/macros/bhop-macro.jar)
 * After that you drag the macro in the macros folder (.minecraft/Depression/macros)
 
+# Depression 1.5 Changelog
+* Added an expand scaffold
+* Added HypixelHop
+* Added Smoothing to Aura
+* Recoded RayCast
+* Recoded TabGui
+
 # Depression 1.4 Changelog
 * New Bypassing Hypixel Fly
 * Added AutoBlock (working on Hypixel)
