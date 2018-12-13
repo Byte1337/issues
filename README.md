@@ -37,7 +37,7 @@ public class Bhop extends Macro {
 * Download: [Test Bhop Macro](https://depressionclient.ml/assets/macros/bhop-macro.jar)
 * After that you drag the macro in the macros folder (.minecraft/Depression/macros)
 
-# Depression 1.5 Changelog
+# Depression 1.5 Changelog ( Not Out Yet )
 * Added an expand scaffold
 * Added HypixelHop
 * Added Smoothing to Aura
