@@ -43,6 +43,27 @@ public class Bhop extends Macro {
 * Added Smoothing to Aura
 * Recoded RayCast
 * Recoded TabGui
+* Added Chams
+* Fixed Nametags
+* Made ChestESP better
+* Improvments to Ambiance
+* Added a new fly mode for hypixel
+* Added Mineplex speed
+* Added DAC Hop
+* Added DAC OnGround
+* Added DAC Fly
+* Added DAC Glide up fly
+* Added more insults to killsult
+* Added BlockHit Module
+* Added custom blockit mode
+* Added Smoothing in killaura
+* Fixed AutoHeal Bug with invalid hotbar selection
+* Updated ChestSteal delay in preset command for hypixel
+* Added Hypixel NoFall to hypixel preset
+* Added a new Hypixel Longjump (Hypixel2)
+* Added a DAC LongJump
+* Recoded TabGui
+* Added a info hud when tabgui is not used
 
 # Depression 1.4 Changelog
 * New Bypassing Hypixel Fly
